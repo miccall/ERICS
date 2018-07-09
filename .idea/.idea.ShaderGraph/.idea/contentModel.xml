@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\miccall\.Rider2018.1\system\resharper-host\local\Transient\ReSharperHost\v12\SolutionCaches\_ShaderGraph.1073784991.00" t="ExcludeRecursive" />
+    <e p="E:\UnityProject2019\ShaderGraph" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Irl" t="Include">
+          <e p="changeShadowDir.cs" t="Include" />
+          <e p="EndCast.cs" t="Include" />
+          <e p="Part" t="Include">
+            <e p="RippleDestroy.cs" t="Include" />
+            <e p="rippleFX.cs" t="Include" />
+          </e>
+          <e p="startGame.cs" t="Include" />
+          <e p="stcil" t="Include">
+            <e p="pgs1.shader" t="Include" />
+            <e p="pgs2.shader" t="Include" />
+            <e p="pgs3.shader" t="Include" />
+          </e>
+        </e>
+        <e p="mat" t="Include">
+          <e p="old" t="Include">
+            <e p="NewUnlitShader.shader" t="Include" />
+            <e p="stand.shader" t="Include" />
+          </e>
+        </e>
+        <e p="Neptune" t="Include">
+          <e p="Script" t="Include">
+            <e p="CameraMove_Life.cs" t="Include" />
+            <e p="CameraMove_Right.cs" t="Include" />
+            <e p="CameraShake.cs" t="Include" />
+            <e p="FadeLightning.cs" t="Include" />
+            <e p="FadeScene.cs" t="Include" />
+            <e p="ItemInitiativeMazeTriggers.cs" t="Include" />
+            <e p="ItemsBase.cs" t="Include" />
+            <e p="ItemsDoor.cs" t="Include" />
+            <e p="ItemsInitiativeBase.cs" t="Include" />
+            <e p="ItemsInitiativeMain5WoodenBridge.cs" t="Include" />
+            <e p="ItemsInitiativeWoodenBridge.cs" t="Include" />
+            <e p="Main1_Canvas.cs" t="Include" />
+            <e p="Main1Player.cs" t="Include" />
+            <e p="Main2Player.cs" t="Include" />
+            <e p="Main3Player.cs" t="Include" />
+            <e p="Main6_PlayEnd.cs" t="Include" />
+            <e p="Main6Player.cs" t="Include" />
+            <e p="Player.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="MusicJ.cs" t="Include" />
+          <e p="MusicLei.cs" t="Include" />
+          <e p="MusicSwitch.cs" t="Include" />
+          <e p="PlayAudioClip.cs" t="Include" />
+          <e p="PlayAudioEffct.cs" t="Include" />
+        </e>
+        <e p="the book of shader" t="Include">
+          <e p="function" t="Include">
+            <e p="PlotNode.cs" t="Include" />
+          </e>
+          <e p="shap" t="Include">
+            <e p="RectToPolar.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="ShaderGraph.sln" t="IncludeFlat" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
