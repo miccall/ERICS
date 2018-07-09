@@ -10,8 +10,7 @@
 场景美术 ：彭勃
 技术美术  ：王金铮
 
-Demo ：
-[](http://onh0umlhz.bkt.clouddn.com/ERICS.rar)
+[Demo ：http://onh0umlhz.bkt.clouddn.com/ERICS.rar ](http://onh0umlhz.bkt.clouddn.com/ERICS.rar)
 
 
 
